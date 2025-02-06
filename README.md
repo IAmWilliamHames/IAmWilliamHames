@@ -5,3 +5,10 @@
 Hi, I'm William, a fullstack web developer from Chicago, IL.
 
 [![Twitter: IAmWilliamHames](https://img.shields.io/twitter/follow/IAmWilliamHames?style=social)](https://x.com/IAmWilliamHames)
+
+## PSD to HTML Designs
+
+- Clipboard: [Design Resources](https://www.frontendmentor.io/challenges/clipboard-landing-page-5cc9bccd6c4c91111378ecb9) | [Github Repo](https://github.com/IAmWilliamHames/clipboard) | [Live Demo](https://clipboard-design.netlify.app/) | [Design Comparison](https://www.frontendmentor.io/solutions/clipboard-landing-page-lNfyaCGYzQ)
+- Loop Studio: [Design Resources](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw) | [Github Repo](https://github.com/IAmWilliamHames/loopstudios) | [Live Demo](https://loopstudios-design.netlify.app/) | [Design Comparison](https://www.frontendmentor.io/solutions/loopstudios-landing-page-vMKvXJy9Zl)
+- URL Shortening: [Design Resources](https://www.frontendmentor.io/challenges/url-shortening-api-landing-page-2ce3ob-G) | [Github Repo](https://github.com/IAmWilliamHames/shortly) | [Live Demo](https://shortly-design.netlify.app/) | [Design Comparison](https://www.frontendmentor.io/solutions/url-shortening-api-landing-page-iE5pVhqd79)
+- Testimonials Grid: [Design Resources](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7) | [Github Repo](https://github.com/IAmWilliamHames/testimonial-grid) | [Live Demo](https://testimonial-design.netlify.app/) | [Design Comparison](https://www.frontendmentor.io/solutions/testimonials-grid-section-saQkcH6_Gn)
