@@ -18,4 +18,5 @@ Hi, I'm William, a fullstack web developer from Chicago, IL.
 - Rails 5 Ecommerce Website: [Github Repo](https://github.com/IAmWilliamHames/estore)
 - Rack Application: [Github Repo](https://github.com/IAmWilliamHames/rack_app)
 - Astro.js Blog: [Github Repo](https://github.com/IAmWilliamHames/astro-blog)
+- Express.js Application: [Github Repo](https://github.com/IAmWilliamHames/express-app)
 - CodeIgniter 4 Ecommerce Website: Coming Soon...
