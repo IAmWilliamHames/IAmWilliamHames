@@ -19,9 +19,10 @@ Hi, I'm William, a fullstack web developer from Chicago, IL.
 - Rack Application: [Github Repo](https://github.com/IAmWilliamHames/rack_app)
 - Astro.js Blog: [Github Repo](https://github.com/IAmWilliamHames/astro-blog)
 
-## Backend Project
+## Backend Projects
 
 - Express.js Application: [Github Repo](https://github.com/IAmWilliamHames/express-app)
+- Crystal Language Vagrant Box: [Github Repo](https://github.com/IAmWilliamHames/crystal-vagrant)
 
 ## Homebrewed Projects
 
