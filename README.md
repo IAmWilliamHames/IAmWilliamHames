@@ -18,9 +18,12 @@ Hi, I'm William, a fullstack web developer from Chicago, IL.
 - Rails 5 Ecommerce Website: [Github Repo](https://github.com/IAmWilliamHames/estore)
 - Rack Application: [Github Repo](https://github.com/IAmWilliamHames/rack_app)
 - Astro.js Blog: [Github Repo](https://github.com/IAmWilliamHames/astro-blog)
+
+## Backend Project
+
 - Express.js Application: [Github Repo](https://github.com/IAmWilliamHames/express-app)
 
-## Homebrewed Frameworks
+## Homebrewed Projects
 
 - NimbusMVC (PHP/MYSQL MVC Framework): [Github Repo](https://github.com/IAmWilliamHames/NimbusMVC)
 - NimbusMVC Ecommerce website: Coming Soon...
