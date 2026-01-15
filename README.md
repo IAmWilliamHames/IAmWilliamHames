@@ -1,4 +1,4 @@
-# William Hames
+# Building To Understand
 
 JavaScript developer who learns by building things from scratch.
 
